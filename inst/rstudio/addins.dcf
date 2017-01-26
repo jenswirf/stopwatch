@@ -1,0 +1,4 @@
+Name: Stopwatch
+Description: Times execution of selection
+Binding: stopwatch
+Interactive: false
